@@ -1,4 +1,4 @@
-# MyPages
+# Bio
 
 # Yogya Chukkapalli
 Learning Enthusiast; In pursuit of realising new things;
