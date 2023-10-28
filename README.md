@@ -1,22 +1,22 @@
 # Yogya Chukkapalli
-
-## [Blogs]((https://www.example.com))       [Under Graduate Work](https://www.example.com)       [Graduate Work](https://www.example.com)
-
-
-# Bio
 Learning Enthusiast; In pursuit of realising new things;
 
-Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=vSz9WAIAAAAJ)
-
-LinkedIn:[Profile](https://www.linkedin.com/in/yogya-chukkapalli-717018165/)
-
-### A brief Bio:
 I'm a master's student at ECE, University of Michigan-Ann Arbor. My specialisation is in Signal and Image Processing and Machine Learning. My research interests include medical imaging, medical signal processing, computer vision, precision medicine and inverse problems. 
 
+- [Resume](https://github.com/YogyaCh/Bio/main/README.md#resume)
+- [Blogs](https://www.example.com)       
+- [Under Graduate Work](https://www.example.com)       
+- [Graduate Work](https://www.example.com)
+- [Linkedin](https://www.linkedin.com/in/yogya-chukkapalli-717018165/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=vSz9WAIAAAAJ)
+
+
+# Resume
 ### Education:
 Bachelor of Technology in Electronics and Communication Engineering, PES University, India, with specialisation in Communications. Minor degree in Computer Science and Engineering, PES Univesity, India. *(Aug 2017 - May 2021)*
 
 ### Research Experience:
+Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=vSz9WAIAAAAJ)
 *Pneumonia and Covid Detection from Chest X-Ray*
 1. Remodelled the already existing CheXNET to give the probability of a lung X-ray being normal, pneumonic or other lung diseases. 
 2. Performed segmentation on the pre-processed images using UNET.
