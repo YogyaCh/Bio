@@ -1,6 +1,9 @@
-# Bio
-
 # Yogya Chukkapalli
+
+## [Blogs]((https://www.example.com))       [Under Graduate Work](https://www.example.com)       [Graduate Work](https://www.example.com)
+
+
+# Bio
 Learning Enthusiast; In pursuit of realising new things;
 
 Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=vSz9WAIAAAAJ)
